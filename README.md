@@ -1,1 +1,1 @@
-http://roxyandblackie.neocities.org/bbs.html
+http://172.105.27.32/misc/bbs.html
